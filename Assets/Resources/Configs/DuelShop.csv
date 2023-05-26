@@ -1,0 +1,14 @@
+UnitId,Price,RarityWeight
+UnitBatter,2,32
+UnitMachine-gunner,2,32
+UnitCyborg,2,32
+UnitDemoman,2,32
+UnitSniper,3,16
+UnitAdventuress,3,16
+UnitNinja,3,16
+UnitShieldBearer,3,16
+UnitPyromaniac,4,8
+UnitBoxer,4,8
+UnitMedic,5,4
+UnitShocker,5,4
+UnitSuperHero,5,4

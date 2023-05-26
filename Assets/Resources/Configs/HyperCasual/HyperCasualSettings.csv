@@ -1,0 +1,4 @@
+MeleeUnitCost,100
+RangedUnitCost,100
+CostFactor,2
+InitialCoinsAmount,500

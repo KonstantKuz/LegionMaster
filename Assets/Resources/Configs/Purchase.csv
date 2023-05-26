@@ -1,0 +1,10 @@
+ProductId,PackId,StoreProductId,ProductType
+UnitStarterPack,UnitStarterPack,com.feofunlimited.legionmaster.unitstarterpack,Consumable
+UnitRarePack,UnitRarePack,com.feofunlimited.legionmaster.unitrarepack,Consumable
+UnitEpicPack,UnitEpicPack,com.feofunlimited.legionmaster.unitepicpack,Consumable
+Hard500,Hard500,com.feofunlimited.legionmaster.hard500,Consumable
+Hard1000,Hard1000,com.feofunlimited.legionmaster.hard1000,Consumable
+Hard2000,Hard2000,com.feofunlimited.legionmaster.hard2000,Consumable
+Hard3000,Hard3000,com.feofunlimited.legionmaster.hard3000,Consumable
+Hard5000,Hard5000,com.feofunlimited.legionmaster.hard5000,Consumable
+Hard10000,Hard10000,com.feofunlimited.legionmaster.hard10000,Consumable

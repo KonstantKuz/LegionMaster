@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1014069162488</string>
+  <string name="google_storage_bucket" translatable="false">legion-master-cf340.appspot.com</string>
+  <string name="project_id" translatable="false">legion-master-cf340</string>
+  <string name="google_api_key" translatable="false">AIzaSyBUx5LM90qmqLk428E6J_e8sUwtELTlkcI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUx5LM90qmqLk428E6J_e8sUwtELTlkcI</string>
+  <string name="google_app_id" translatable="false">1:1014069162488:android:98c6e502e86e322261260d</string>
+  <string name="default_web_client_id" translatable="false">1014069162488-0h3vffd6jfmth9gid2j6uhnflqkmigtp.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,6 @@
+Result,Id,Type,MinNumber,MaxNumber,CoEnemiesKilled,FactorBattleResult
+WIN,Exp,Exp,400,600,10,2
+,Soft,Currency,200,300,10,2
+,BattlePassExp,BattlePassExp,500,600,10,2
+LOSE,Exp,Exp,0,0,0,0
+,Soft,Currency,5,10,10,1

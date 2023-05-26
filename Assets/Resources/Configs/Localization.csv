@@ -1,0 +1,193 @@
+Id,English,Russian
+Tap to place unit,Tap to place unit,"Нажмите на юнита, чтобы поместить его на поле"
+Drag unit here,Drag unit here,Перетащите юнита сюда
+Start battle,Start battle,Начать бой
+To battle!,To battle!,В бой!
+SHOP,SHOP,МАГАЗИН
+QUEST,QUESTS,ЗАДАНИЯ
+BATTLE!,BATTLE!,В БОЙ!
+ARMY,ARMY,АРМИЯ
+BATTLE PASS,BATTLE PASS,ПРОПУСК
+Start,Start,Старт
+There is not enough currency to buy a product,There is not enough currency to buy a product,"Недостаточно валюты, чтобы купить товар"
+Premium,Premium,Премиум
+Level  Up,Level  Up,Повысить уровень
+Common Loot Box,Common Loot Box,Обычный лутбокс
+Rare Loot Box,Rare Loot Box,Редкий лутбокс
+Daily Quests,Daily Quests,Ежедневные задания
+Weekly Quests,Weekly Quests,Еженедельные задания
+Time left,Time left,Времени осталось
+LootBoxCommonSmall,Common Loot Box,Обычный сундук
+LootBoxCommonBig,Common Loot Box,Обычный сундук
+LootBoxRareSmall,Rare Loot Box,Редкий Сундук
+LootBoxRareBig,Rare Loot Box,Редкий Сундук
++{0} progress exp,+{0} points,+{0} очков
+KillEnemyQuestTask,Kill {0} enemies,Убить {0} врагов
+PlayBattleQuestTask,Play {0} battles,Сыграть {0} боев
+WinBattleQuestTask,Win {0} battle,Выиграть {0} боев
+OpenLootboxQuestTask,Open {0} chest,Открыть {0} сундуков
+UpgradeHeroQuestTask,Upgrade {0} hero,Улучшить {0} героев
+GetSoftQuestTask,Get {0} coins,Добыть {0} монет
+SpendHardQuestTask,Spend {0} gems,Потрать {0} кристаллов
+attack,attack,атака
+armor,armor,защита
+health,health,здоровье
+Common,Common,Обычный
+Rare,Rare,Редкий
+Epic,Epic,Эпический
+Legendary,Legendary,Легендарный
+power,power {0},мощь {0}
+lvl,{0} lvl,уровень {0}
+Level up,Level Up,Улучшить
+UnitBatter,Batter,Бандит
+UnitSniper,Sniper,Снайпер
+UnitAdventuress,Adventuress,Авантюристка
+UnitMachine-gunner,Machine-gunner,Пулеметчик
+UnitCyborg,Cyborg,Киборг
+UnitDemoman,Demoman,Подрывник
+UnitNinja,Ninja,Ниндзя
+UnitShieldBearer,Shield Bearer,Щитоносец
+UnitPyromaniac,Pyromaniac,Пироман
+UnitBoxer,Boxer,Боксер
+UnitMedic,Medic,Медик
+UnitShocker,Shocker,Шокер
+UnitSuperHero,SuperHero,СуперГерой
+Craft,Craft,Собрать
+Next,Next,Далее
+NEXT,NEXT,ДАЛЕЕ
+Buy More,Buy More,Купить еще
+Reward,Reward,Награда
+Defeat!,Defeat!,Поражение!
+Be better next time...,Be better next time...,Добейся успеха в следующем бою...
+Exp,Exp,Опыт
+Soft,Coins,Монет
+Hard,Crystals,Кристаллов
+BattlePassExp,Battle Pass Exp,Опыт боевого пропуска
+Strongmens,Strongmens,Силачи
+Dodgers,Dodgers,Ловкачи
+Fighters,Fighters,Истребители
+Opposites,Opposites,Противоположности
+StrongDefense,Strong Defense,Супер защитники
+Support,Support,Поддержка
+CombatAssistance,Combat Assistance,Боевая помощь
+Firearms,Firearms,Огнестрелы
+One-eyed,One-eyed,Одноглазые
+Strength,Strength,Сопротивление
+Fire,Fire,Огненные
+Electricity,Electricity,Электрические
+Poison,Poison,Отравители
+StrongmensDescription,Increases the health recovery of all characters from each enemy attack by {0} points.,Повышает восстановление здоровья всех персонажей игрока от каждой полученной вражеской атаки на {0} единиц.
+DodgersDescription,All Dodger characters on the player's side gain {0:P0} dodge chance.,Все персонажи “ловкачи” на стороне игрока получают {0:P0} шанс уклонения.
+FightersDescription,"For each death of any character, a fighter on the player's side restores {0} health points.",За каждую смерть любого персонажа “боец” на стороне игрока восстанавливает {0} единиц здоровья.
+OppositesDescription,"The armor of the player's characters is increased by {0}%, the armor of the enemy characters is reduced by {1}%.","Защита персонажей игрока повышается на {0}%, защита персонажей противника понижается на {1}%."
+StrongDefenseDescription,Each player character loses {0}% of their attack value and gains a health bonus equal to the amount of attack lost.,Каждый персонаж игрока теряет {0}% значения своей атаки и получает бонус к здоровью на значение равное потерянной атаке.
+SupportDescription,Increases the health regen per second of all characters by {0}.,Повышает восстановление здоровья в секунду всех персонажей игрока на {0} единиц.
+CombatAssistanceDescription,Increases the attack of all player characters by {0}%.,Увеличивает атаку всех персонажей игрока на {0}%.
+FirearmsDescription,Characters' physical damage is increased by {0:P0}.,Физический урон персонажей игрока повышается на {0:P0}.
+One-eyedDescription,"Critical attack chance of one-eyed characters is increased by {0:P0}, critical damage is increased by {1:P0}.","Шанс критической атаки “одноглазых” персонажей игрока повышается на {0:P0}, критический урон повышается на {1:P0}."
+StrengthDescription,Increases the health recovery from basic attacks of all characters by {0} points.,Повышает восстановление здоровья от базовых атак всех персонажей игрока на {0} единиц.
+FireDescription,"Reduced damage resistance from poison, fire, electricity and poison for all enemy characters by {0:P0}.","Сопротивление физическому, огненному, электрическому, ядовитому урону всех персонажей противника на поле боя понижается на {0:P0}."
+ElectricityDescription,"Resistance to physical, fire, electrical, poison damage of all characters is increased by {0:P0}, dodge chance is increased by {4:P0}.","Сопротивление физическому, огненному, электрическому, ядовитому урону всех персонажей игрока на поле боя повышается на {0:P0}, шанс уклонения от атаки противника повышается на {4:P0}."
+PoisonDescription,"All characters gain an additional poison attack type to their basic attack, and all characters' poison damage is increased by {0:P0}.","Все персонажи игрока на арене получают дополнительный ядовитый тип атаки к базовой атаке, урон от яда всех союзных персонажей повышается на {0:P0}."
+UnitBatterShard,Batter Shards,Осколоки Бандита
+UnitSniperShard,Sniper Shards,Осколки Снайпера
+UnitAdventuressShard,Adventuress Shards,Осколки Авантюристки
+UnitMachine-gunnerShard,Machine-gunner Shards,Осколки Пулеметчика
+UnitCyborgShard,Cyborg Shards,Осколки Киборга
+UnitGrenadesSoldierShard,Grenadier Shards,Осколки Гренадера
+UnitDemomanShard,Demoman Shards,Осколки Подрывника
+UnitNinjaShard,Ninja Shards,Осколки Ниндзи
+UnitShieldBearerShard,Shield Bearer Shards,Осколки Щитоносца
+UnitPyromaniacShard,Pyromaniac Shards,Осколки Пиромана
+UnitBoxerShards,Boxer Shards,Осколки Боксера
+UnitMedicShards,Medic Shards,Осколки Медика
+UnitShockerShard,Iron Fighter Shards,Осколки Железного Бойца
+UnitSuperHeroShard,SuperHero Shards,Осколки СуперГероя
+Upgrade,Upgrade,Повысить уровень
+Progress unit,Progress unit,Прогресс персонажа
+Level Completed!,Level Completed!,Уровень Пройден!
+WIN!,WIN!,ПОБЕДА!
+Rewards,Rewards,Награды
+Time left: {0},Time left: {0},Осталось: {0}
+d,d,д
+h,h,ч
+m,m,м
+s,s,с
+Rewards for completed quests,Rewards for completed quests,Награды за выполненные задания
+There is not enough currency to buy a product,There is not enough currency to buy a product,Не хватает валюты для покупки товара
+CHOOSE WARRIORS,CHOOSE WARRIORS,ВЫБЕРИ БОЙЦОВ
+lvl. {0},lvl. {0},ур. {0}
+Enemy,Enemy,Враг
+Player,Player,Игрок
+Round {0},Round {0},Раунд {0}
+SpecialOffers,,
+Gems,Crystals,Кристаллы
+Coins,Coins,Деньги
+UnitStarterPack,Super Pack,Супер Пак
+UnitRarePack,Rare Pack,Редкий Пак
+UnitEpicPack,Epic Pack,Эпический Пак
+Hard500,Crystals,Кристаллы
+Hard1000,Crystals,Кристаллы
+Hard2000,Crystals,Кристаллы
+Hard3000,Crystals,Кристаллы
+Hard5000,Crystals,Кристаллы
+Hard10000,Crystals,Кристаллы
+Soft300,Coins,Деньги
+Soft3500,Coins,Деньги
+Soft25000,Coins,Деньги
+Level,Level {0},Уровень {0}
+All levels completed,All levels completed,Все уровни пройдены
+Duel,Duel,Дуэль
+Battle Pass Season,Battle Pass Season 1,1-й сезон боевого пропуска
+Chests,Chests,Сундуки
+LaunchTutorialMessageStepId1,Drag units to free cells on the field.,Перетащи персонажей на свободные клетки на поле.
+LaunchTutorialMessageStepId2,Drag units to free cells on the field.,Перетащи персонажей на свободные клетки на поле.
+LaunchTutorialMessageStepId3,You can upgrade units by placing their copies on battlefield,"Во время матча персонажей можно улучшать, выставляя их копии на поле боя."
+LaunchTutorialMessageStepId4,Drag copy of unit to field to increase its star rank,"Перетащи копию персонажа на поле, чтобы повысить его ранг звезд."
+LaunchTutorialMessageStepId5,Great! Now you have unit with more stars! Lets try it in the battle!,Отлично! Теперь персонаж имеет повышенный ранг звезд. Проверим его в деле!
+LaunchTutorialMessageStepId6,You army is doing great!,Твоя армия показывает хороший результат!
+LaunchTutorialMessageStepId7,Reinforce it to crash the enemy.,"Усиль ее, чтобы окончательно разгромить врага."
+LaunchTutorialMessageStepId8,But do not forget about timer! You have a limited time to place units.,Но не забывай про таймер! Время ограничено.
+LaunchTutorialMessageStepId9,Drag units to the field to upgrade them.,"Перетащите персонажей на поле боя, чтобы усилить своих бойцов!"
+UnlockTutorialMessageStepId1,Congratulation with your first duel! Your rewards are awaiting you!,Вы сыграли свой первый матч в дуэлях и вас ждут первый награды!
+UnlockTutorialMessageStepId2,Go to BattlePass to receive them,"Откройте Боевой пропуск, чтобы забрать их."
+UnlockTutorialMessageStepId6,You just received fragments for new unit!,Вы получили фрагменты нового персонажа!
+UnlockTutorialMessageStepId7,You can use fragments to create new or upgrade existing units,Из фрагментов вы можете создавать новых и улучшать имеющихся персонажей.
+UnlockTutorialMessageStepId8,To unlock new unit switch to Army screen,Чтобы создать нового персонажа перейдите в раздел Армии.
+UnlockTutorialMessageStepId10,Select new unit you can unlock now,"Выберите персонажа, фрагменты которого вы получили."
+UnlockTutorialMessageStepId12,Let's unlock this unit,Теперь создайте персонажа.
+UnlockTutorialMessageStepId14,Great! Your army got a new fighter!,Замечательно! Ваша армия пополнилась новым бойцом!
+UnlockTutorialMessageStepId15,You can use fragments to upgrade level of your unit also.,За полученные фрагменты вы также можете улучшать уровень вашего бойца.
+UnlockTutorialMessageStepId16,Let's upgrade this unit,Давайте повысим уровень персонажа.
+UnlockTutorialMessageStepId18,Great! Now this unit is much stronger.,Отлично! Теперь боец стал значительно сильнее.
+UnlockTutorialMessageStepId19,Let's try this unit in action! It's time for one more duel!,Пора начинать новую дуэль и проверить персонажа в действии!
+GetReward,GET REWARD,ПОЛУЧИТЬ НАГРАДУ
+Completed,COMPLETED,ВЫПОЛНЕНО
+Waiting,Waiting...,Ожидайте...
+Unlock2TutorialMessageStepId1,You've played your first match and the rewards are waiting for you!,Вы сыграли свой первый матч и вас ждут награды!
+Unlock2TutorialMessageStepId2,Get them from the Battle Pass!,Заберите их из боевого пропуска!
+Unlock2TutorialMessageStepId6,You have received new character fragments!,Вы получили фрагменты нового персонажа!
+Unlock2TutorialMessageStepId7,"From the fragments, you can create new and improve existing characters.",Из фрагментов вы можете создавать новых и улучшать имеющихся персонажей.
+Unlock2TutorialMessageStepId8,Let's create a new character.,Давайте создадим нового персонажа.
+Unlock2TutorialMessageStepId10,Now create a character.,Теперь создайте персонажа.
+Unlock2TutorialMessageStepId12,Amazing! Your army has replenished with a new fighter!,Замечательно! Ваша армия пополнилась новым бойцом!
+Unlock2TutorialMessageStepId13,"For the received fragments, you can also improve the level of your fighter.",За полученные фрагменты вы также можете улучшать уровень вашего бойца.
+Unlock2TutorialMessageStepId14,Level up your character!,Повысьте уровень персонажа!
+Unlock2TutorialMessageStepId16,Fine! Now the fighter has become much stronger.,Отлично! Теперь боец стал значительно сильнее.
+Unlock2TutorialMessageStepId17,It's time to start a new chapter of the company and test the character in action!,Пора начинать новую главу компании и проверить персонажа в действии!
+Stage {0} complete!,Stage {0} complete!,Этап {0} пройден!
+Fight,Fight,В бой
+Arrange units on the board,Arrange units on the board,Расставьте юнитов на доске
+Choose warrior {0}/{1},Choose warrior {0}/{1},Выберите бойца {0}/{1}
+CountdownFinishText,Fight,Бой
+CAMPAIGN,CAMPAIGN,КАМПАНИЯ
+Stage {0},Stage {0},Этап {0}
+LaunchCampaignMessageStepId1,Drag units to free cells on the field.,Перетащи персонажей на свободные клетки на поле.
+LaunchCampaignMessageStepId3,Drag units to free cells on the field.,Перетащи персонажей на свободные клетки на поле.
+LaunchCampaignMessageStepId4,You can upgrade units by placing their copies on battlefield,"Во время матча персонажей можно улучшать, выставляя их копии на поле боя."
+LaunchCampaignMessageStepId5,Drag copy of unit to field to increase its star rank,"Перетащи копию персонажа на поле, чтобы повысить его ранг звезд."
+LaunchCampaignMessageStepId6,Great! Now you have unit with more stars! Lets try it in the battle!,Отлично! Теперь персонаж имеет повышенный ранг звезд. Проверим его в деле!
+LaunchCampaignMessageStepId8,You army is doing great!,Твоя армия показывает хороший результат!
+LaunchCampaignMessageStepId9,Reinforce it to crash the enemy.,"Усиль ее, чтобы окончательно разгромить врага."
+LaunchCampaignMessageStepId10,Drag copies of characters onto the battlefield to increase their star rank!,"Перетаскивай копии персонажей на поле боя, чтобы повысить их ранг звезд!"
+LaunchCampaignMessageStepId11,Drag units to the field to upgrade them.,"Перетащите персонажей на поле боя, чтобы усилить своих бойцов!"

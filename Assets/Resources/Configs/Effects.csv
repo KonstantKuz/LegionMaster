@@ -1,0 +1,5 @@
+Id,Time,DamagePeriod,Modifier,Target,ParameterName,Value
+Stun,2,,,,,
+Pyromaniac,5,,,,,
+,,,AddValue,Self,MoveSpeed,5
+Burning,3,1,,,,

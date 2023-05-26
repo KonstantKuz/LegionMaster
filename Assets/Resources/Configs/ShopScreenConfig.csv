@@ -1,0 +1,13 @@
+SectionId,ProductId,ViewType,ViewPrefabId,Bonus
+SpecialOffers,UnitStarterPack,Banner,UnitStarterPackBanner,+1000
+,UnitRarePack,Banner,UnitRarePackBanner,+300
+,UnitEpicPack,Banner,UnitEpicPackBanner,+900
+Gems,Hard500,Box,CrystalBox,
+,Hard1000,Box,CrystalBox,
+,Hard2000,Box,CrystalBox,
+,Hard3000,Box,CrystalBox,
+,Hard5000,Box,CrystalBox,
+,Hard10000,Box,CrystalBox,
+Coins,Soft300,Box,CoinBox,
+,Soft3500,Box,CoinBox,
+,Soft25000,Box,CoinBox,

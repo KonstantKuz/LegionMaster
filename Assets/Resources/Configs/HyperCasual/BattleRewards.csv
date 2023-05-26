@@ -1,0 +1,3 @@
+Result,Id,Type,MinNumber,MaxNumber,CoEnemiesKilled,FactorBattleResult
+WIN,Soft,Currency,400,500,100,2
+LOSE,Soft,Currency,200,300,100,2

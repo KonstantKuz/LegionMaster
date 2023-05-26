@@ -1,0 +1,6 @@
+Level,UnitId,SizeIncreaseFactor
+1,UnitCyborg,0.05
+2,UnitSniper,0.01
+3,UnitMachine-gunner,0.01
+4,UnitDemoman,0.09
+5,UnitPyromaniac,0.06

@@ -1,0 +1,14 @@
+UnitId,Armor,MoveSpeed,DodgeChance,PhysicalResistance,FireResistance,ElectricalResistance,PoisonResistance,Attack,AttackDistance,AttackRangeInCells,AttackInterval,CriticalChance,CriticalDamage,AttackTypes,PhysicalDamageBuff,FireDamageBuff,ElectricalDamageBuff,PoisonDamageBuff,Health,HealthRecoveryPerAttack,HealthRecoveryPerHit,HealthRecoveryPerSecond,HealthRecoveryPerDeath,Rarity,StartingStars,Fraction,Set,EnergyMax,EnergyStarting,EnergyRecoveryPerAttack,EnergyRecoveryPerHit,EnergyRecoveryPerSecond,EnergyRecoveryPerDeath,AbilityEnabled
+UnitBatter,10,10,0,0,0,0,0,350,0,1,1,0,2,Physical,1,0,0,0,6000,0,0,0,0,Rare,1,"Fighters, Strength",1,1000,0,100,100,10,50,TRUE
+UnitMachine-gunner,5,5,0,0,0,0,0,100,0,2,1,0,2,Physical,1,0,0,0,8000,0,0,0,0,Rare,1,"Firearms, One-eyed",1,1000,0,100,50,10,50,FALSE
+UnitCyborg,15,10,0,0,0,0,0,800,0,3,2,0,2,Physical,1,0,0,0,4000,0,0,0,0,Rare,1,"Fire, Firearms",1,1000,0,100,50,10,50,FALSE
+UnitDemoman,15,10,0,0,0,0,0,250,0,4,1,0,2,Physical,1,0,0,0,4500,0,0,0,0,Rare,1,"Opposites, CombatAssistance",1,1000,0,150,50,10,50,TRUE
+UnitSniper,5,5,0,0,0,0,0,500,0,8,2,0,2,Physical,1,0,0,0,3000,0,0,0,0,Epic,1,"One-eyed, Poison",1,1000,0,150,50,10,50,TRUE
+UnitAdventuress,5,15,0,0,0,0,0,700,0,1,1,0,2,Physical,1,0,0,0,3500,0,0,0,0,Epic,1,"Support, Dodgers, Electricity",1,1000,0,100,50,10,50,FALSE
+UnitNinja,5,20,0,0,0,0,0,900,0,1,1,0,2,Physical,1,0,0,0,2500,0,0,0,0,Epic,1,"Dodgers, Poison",1,1000,0,100,50,10,50,FALSE
+UnitShieldBearer,50,3,0,0,0,0,0,500,0,1,2,0,2,Physical,1,0,0,0,10000,0,0,0,0,Epic,1,"Strongmens,StrongDefense,Opposites",1,1000,0,50,150,10,50,TRUE
+UnitPyromaniac,15,10,0,0,0,0,0,300,0,2,0.5,0,2,Physical,1,0,0,0,5000,0,0,0,0,Legendary,1,"CombatAssistance,Fire",1,1000,0,100,100,10,50,TRUE
+UnitBoxer,15,15,0,0,0,0,0,500,0,1,1.5,0,2,Physical,1,0,0,0,7000,0,0,0,0,Legendary,1,"Strongmens,Strength",1,1000,0,100,50,10,50,FALSE
+UnitMedic,5,10,0,0,0,0,0,300,0,3,1,0,2,Physical,1,0,0,0,2000,0,0,0,0,Legendary,1,"StrongDefense,Support",1,1000,0,100,50,10,50,FALSE
+UnitShocker,20,10,0,0,0,0,0,500,0,1,1,0,2,Physical,1,0,0,0,5000,0,0,0,0,Legendary,1,"Fighters,Electricity",1,1000,0,100,50,10,50,FALSE
+UnitSuperHero,5,10,0,0,0,0,0,300,0,3,1,0,2,Physical,1,0,0,0,2000,0,0,0,0,Legendary,1,"StrongDefense,Support",1,1000,0,100,50,10,50,FALSE

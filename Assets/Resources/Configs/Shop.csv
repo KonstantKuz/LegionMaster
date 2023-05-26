@@ -1,0 +1,9 @@
+ProductId,Currency,CurrencyCount,PackId
+LootBoxCommonSmall,Soft,300,LootBoxCommonSmall
+LootBoxCommonBig,Soft,2700,LootBoxCommonBig
+LootBoxRareSmall,Hard,100,LootBoxRareSmall
+LootBoxRareBig,Hard,900,LootBoxRareBig
+BattlePassPremium,Hard,950,BattlePassPremium
+Soft300,Hard,10,Soft300
+Soft3500,Hard,100,Soft3500
+Soft25000,Hard,500,Soft25000

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &7934254727784381255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3652879676213929044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae193bf79aa4055800edecf2d0edf95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _projectileObjectId: 
+  _projectile: {fileID: 0}
+--- !u!1001 &5537195192524573136
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -7888093249996317770, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: _behavior
+      value: 
+      objectReference: {fileID: 11400000, guid: 37985ebbe087718409b9077db692a657, type: 2}
+    - target: {fileID: 1884183705695064817, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_Name
+      value: BaseMeleeUnit
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1884183705695064820, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3941940099524932715, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: _objectId
+      value: BaseMeleeUnitPrefabId
+      objectReference: {fileID: 0}
+    - target: {fileID: 5374088038249174414, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+      propertyPath: _weapon
+      value: 
+      objectReference: {fileID: 7934254727784381255}
+    m_RemovedComponents:
+    - {fileID: 4880567971410358652, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+--- !u!1 &3652879676213929044 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9109008561925795204, guid: f3f73730ad2111d408af0fd1d7103e08, type: 3}
+  m_PrefabInstance: {fileID: 5537195192524573136}
+  m_PrefabAsset: {fileID: 0}

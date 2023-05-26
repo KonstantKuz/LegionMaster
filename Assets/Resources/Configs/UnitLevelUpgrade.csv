@@ -1,0 +1,14 @@
+UnitId,LevelCostIncrease,Attack,Armor,Health
+UnitBatter,10,30,3,250
+UnitMachine-gunner,10,20,2,300
+UnitCyborg,10,30,3,200
+UnitDemoman,10,30,2,225
+UnitSniper,10,50,1,100
+UnitAdventuress,10,30,1,125
+UnitNinja,10,50,1,150
+UnitShieldBearer,10,10,4,275
+UnitPyromaniac,10,50,2,175
+UnitBoxer,10,10,3,400
+UnitMedic,10,40,1,150
+UnitShocker,10,40,2,150
+UnitSuperHero,10,40,1,150

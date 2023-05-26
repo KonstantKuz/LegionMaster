@@ -1,0 +1,7 @@
+Section,RequiredPoints,RewardType,RewardId,RewardCount
+Daily,300,Currency,Soft,500
+Daily,600,Currency,Hard,100
+Daily,900,LootBox,LootBoxRare,1
+Weekly,300,Currency,Soft,5000
+Weekly,600,Currency,Hard,1000
+Weekly,900,LootBox,LootBoxRare,10

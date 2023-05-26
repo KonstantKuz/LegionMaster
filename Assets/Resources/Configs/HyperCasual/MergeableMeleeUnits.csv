@@ -1,0 +1,6 @@
+Level,UnitId,SizeIncreaseFactor
+1,UnitBatter,0
+2,UnitNinja,0.1
+3,UnitShocker,0.1
+4,UnitBoxer,0.02
+5,UnitShieldBearer,0.02

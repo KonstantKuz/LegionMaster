@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1014069162488",
+    "project_id": "legion-master-cf340",
+    "storage_bucket": "legion-master-cf340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014069162488:android:98c6e502e86e322261260d",
+        "android_client_info": {
+          "package_name": "com.FeoFun.LegionMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014069162488-0h3vffd6jfmth9gid2j6uhnflqkmigtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUx5LM90qmqLk428E6J_e8sUwtELTlkcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014069162488-0h3vffd6jfmth9gid2j6uhnflqkmigtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014069162488-9o41m6emvs7podnulu5otrk7ue6i07l7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feofunlimited.legionmaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
